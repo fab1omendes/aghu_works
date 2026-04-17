@@ -96,9 +96,7 @@ Ao realizar o Passo 1, o sistema já cria o PHI, com as flags Ativo e Origem Pre
 
 ### Passo 4: Vincular Procedimento e Especialidade
 *   **Menu:** `Ambulatório › Cadastros › Procedimento e Especialidade`
-*   **Ação:** Selecionar a **Especialidade/Agenda** (ex: Ortopedia Ambulatorial) e clicar em **Pesquisar**, depois incluir o procedimento correspondente e **Gravar** 
-
-a `flags` |Consulta| e |Plano Ambulatório|. e por fim o botão **Gravar**
+*   **Ação:** Selecionar a **Especialidade/Agenda** (ex: Ortopedia Ambulatorial) e clicar em **Pesquisar**, depois incluir o procedimento correspondente e **Gravar**, as `flags` |Consulta| e |Plano Ambulatório|. e por fim o botão **Gravar**
 
 ### Passo 5: Vincular Procedimento e Especialidade
 *   **Menu:** `Ambulatório › Cadastros › Procedimento e Especialidade`
